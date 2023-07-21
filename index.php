@@ -1,7 +1,9 @@
 <?php
 ob_start();
 require('./sheep_core/config.php');
+/* require_once $_SERVER["DOCUMENT_ROOT"] . "/loja/templates/cabecalho.php"; */
 ?>
+
 
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -146,3 +148,9 @@ require('./sheep_core/config.php');
     
 </body>
 </html>
+
+<?php 
+require_once $_SERVER["DOCUMENT_ROOT"] . "/loja/templates/footer.php";
+
+
+?>
