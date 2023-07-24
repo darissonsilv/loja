@@ -85,7 +85,7 @@ require('../sheep_core/config.php');
                     </div>
 
                   </div>
-                  <p><a href="https://maykonsilveira.com.br">EAD MAykon Silveira</a></p>
+                 
                 </div>
               </div>
             </div>
